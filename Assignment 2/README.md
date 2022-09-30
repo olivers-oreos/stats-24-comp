@@ -7,4 +7,4 @@ Then, take a look through the Spotify data in the `data/spotify_data.csv` file a
 
 ## Turning it in
 
-This assignment will be due on Tuesday, October 26th before our meeting that day. Please email Alex (alexcheng@college.harvard.edu) and Chiara (cdarnton@college.harvard.edu) the link to your finished assignment! 
+This assignment will be due on Tuesday, October 25th before our meeting that day.
