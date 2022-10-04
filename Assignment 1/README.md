@@ -1,7 +1,7 @@
 # Assignment 1
 
 ## Part 0
-You can use either [VSCode](https://code.visualstudio.com), [Webstorm](https://www.jetbrains.com/webstorm/) (requires a [Jetbrains student license](https://www.jetbrains.com/student/)), or whatever IDE you are comfortable with that supports HTML/CSS.
+You can use either [VSCode](https://code.visualstudio.com), [Webstorm](https://www.jetbrains.com/webstorm/) (requires a [Jetbrains student license](https://www.jetbrains.com/student/)), or whatever IDE you are comfortable with that supports HTML/CSS and Javascript.
 
 ## Part 1 - HTML basics (Week 1) 
 Clone this repository using [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Notice the html file `index.html` in the main folder, which is where the actual HTML content of our website will be held. (the subfoler `js` is where we store our Javascript files and the `data` folder will be used in Part 2). You will need to create a `css` subfolder to store your `.css` file and `img` subfolder to store the images you want to show in your website for this part of the assignment.
