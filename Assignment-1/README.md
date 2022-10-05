@@ -1,7 +1,7 @@
 # Assignment 1
 
 ## Part 0
-Apply for a [Jetbrains student license](https://www.jetbrains.com/student/) if you haven't yet, and download [Webstorm](https://www.jetbrains.com/webstorm/). We highly encourage you to use this IDE.
+We recommend you use [VSCode](https://code.visualstudio.com/) as an IDE, but you can use whatever IDE you are familar with, as long as it works with HTML/CSS and JavaScript.
 
 ## Part 1 - HTML basics (Week 1) 
 Clone this repository using [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Notice the html file `index.html` in the main folder, which is where the actual HTML content of our website will be held. (the subfoler `js` is where we store our Javascript files and the `data` folder will be used in Part 2). You will need to create a `css` subfolder to store your `.css` file and `img` subfolder to store the images you want to show in your website for this part of the assignment.
@@ -18,7 +18,7 @@ Make sure you don't delete the following lines in the `index.html`! They will be
 <script src="js/main.js"></script>
 ```
 
-Here's a [screenshot preview](https://github.com/avcheng/dm-assignment1-part1/blob/main/img/Screen%20Shot%202020-10-24%20at%201.11.22%20PM.png) of what you could have by the end of this step, which is what I had done for this assignment my freshman year. You can also check out the HTML and CSS files that make that website work or clone the repo and run it locally to see how everything fits together. Remember to link your stylesheets to your HTML files!
+Here's a [screenshot preview](https://github.com/harvard-datamatch/stats-23-assignments/blob/main/Assignment-1/ExamplePart1.png) of what you could have by the end of this step, which is what Huiwen did for this assignment her freshman year. You can also check out the HTML and CSS files that make that website work or clone the repo and run it locally to see how everything fits together. Remember to link your stylesheets to your HTML files!
 
 ## Part 2 - D3 static visualization (Week 2)
 Add a visualization to page through D3! This can just be below your short bio. (If you're feeling adventerous, try having this show up on a different "tab" on the website). 
