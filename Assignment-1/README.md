@@ -4,7 +4,7 @@
 We recommend you use [VSCode](https://code.visualstudio.com/) as an IDE, but you can use whatever IDE you are familar with, as long as it works with HTML/CSS and JavaScript.
 
 ## Part 1 - HTML basics (Week 1) 
-Clone this repository using [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Notice the html file `index.html` in the main folder, which is where the actual HTML content of our website will be held. (the subfoler `js` is where we store our Javascript files and the `data` folder will be used in Part 2). You will need to create a `css` subfolder to store your `.css` file and `img` subfolder to store the images you want to show in your website for this part of the assignment.
+Clone this repository using [this guide](https://harvard.zoom.us/rec/play/j1oJLOKyQh8CXX_c4U5wTUBcqUDL7Ql4otPxwT1dHyII0Yac6hqZVh5pRZ40KgPjiZC0mIoMBakf1RCT.CH7MqwZsMXQkBCh9?continueMode=true&_x_zm_rtaid=SHdilppsT_S6fYnBvCA0ug.1664935253717.1f7653af2bde18c051e6f6e4a8a7693b&_x_zm_rhtaid=644). Notice the html file `index.html` in the main folder, which is where the actual HTML content of our website will be held. (the subfoler `js` is where we store our Javascript files and the `data` folder will be used in Part 2). You will need to create a `css` subfolder to store your `.css` file and `img` subfolder to store the images you want to show in your website for this part of the assignment.
 
 Using HTML and CSS, modify the files and create a personal website to introduce yourself. It can be as simple or as complicated as you want, it just needs to include your name, a short biography of yourself, a profile picture, and a couple of links to other profiles of yourself. (Feel free to add more features, like more images/a slideshow, a background image, other pages, etc.) Use at least 3 CSS selectors and 6 properties to style your webpage. Some ideas include:
 - Changing the font! Check out [Google Fonts](https://fonts.google.com/) for this. You will have to link the font in your header.
@@ -26,6 +26,4 @@ Add a visualization to page through D3! This can just be below your short bio. (
 The instructions for this part are in the `js/main.js` file. The result should be a graph of a bunch of different circles representing the school signups.
 
 ## Part 3 - Turning in the assignment using Git (By Week 3 meeting)
-To turn this assignment in, please clone the current repository (either by downloading the ZIP
-
-[comment]: <Github and create a new repository. Git is the industry standard for version control ad is super helpful to learn! You [can follow this guide here to create a new repository](https://guides.github.com/activities/hello-world/). Commit and push your website up to your Github account and submit via this form: https://forms.gle/uG8jwVxARUxr8Gd18!>
+To turn this assignment in, please use Github and create a new repository. Git is the industry standard for version control ad is super helpful to learn! You [can follow this guide here to create a new repository](https://guides.github.com/activities/hello-world/). Commit and push your website up to your Github account and submit via this form: https://forms.gle/uG8jwVxARUxr8Gd18!
