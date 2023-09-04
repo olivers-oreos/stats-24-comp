@@ -1,0 +1,24 @@
+h1 {
+  margin: 5%;
+}
+
+.bounding {
+  margin: 3% 10%;
+  border: 2px solid white;
+  height: 60vh;
+  width: 80vw;
+}
+
+button {
+  float:right;
+  margin-right: 15%;
+  background-color: white;
+  border-radius: 30px;
+  padding: 4px 24px;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #CA5E60;
+  color: white;
+}
