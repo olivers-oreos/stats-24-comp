@@ -8,6 +8,7 @@ node version: v20.4.0 (use nvm to swap versions)
 npm version: 9.7.2
 ```
 
+Make sure you are in the `Project-Template` folder, then run:
 ```
 npm i
 npm start
