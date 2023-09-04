@@ -1,6 +1,7 @@
 import './App.css';
 import React, { Component, createRef } from 'react';
 import ExampleViz from './exampleViz.js';
+import NewViz from './newViz.js';
 
 class App extends Component {
 
@@ -21,7 +22,7 @@ class App extends Component {
         <h1>Datamatch Stats Data Visualization Tester</h1>
         <div className="bounding">
           {
-            this.state.shown ? <ExampleViz /> : "Toggle B"
+            this.state.shown ? <ExampleViz /> : <NewViz />
           }
         </div>
         <button onClick={this.toggleExample}>Toggle</button>
