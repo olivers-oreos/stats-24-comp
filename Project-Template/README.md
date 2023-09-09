@@ -24,9 +24,9 @@ Pick a visualization idea
 
 ## Project Step 2
 
-Get data that you need
+Get data that you need. Verify the formats of existing data in the firebase and possibly work with the leads to create a system to process the data into a more useful format. Reformatting can also be done on the frontend if it isn't too computationally expensive.
 
-Add the file under `src/utils` as a csv or json.
+Add the file under `public/data` as a csv or json.
 
 ## Project Step 3
 
